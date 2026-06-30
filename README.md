@@ -1,174 +1,155 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=8A2BE2&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst;Turning+Data+Into+Business+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%7C+SQL+%7C+Power+BI" />
 </p>
 
 <h3 align="center">
-Data Analyst • Business Analyst • Power BI • SQL • Python
+Transforming Data into Actionable Business Insights
 </h3>
 
-<p align="center">
-Passionate about solving business problems through data visualization, analytics, and storytelling.
-</p>
+---
+
+# About Me
+
+I am a Data Analyst with **2 years of professional experience** working with operational and business data across healthcare and e-commerce domains.
+
+My experience includes data validation, reporting, quality assurance, and maintaining high-volume datasets while supporting business operations. I enjoy applying analytical thinking and business intelligence techniques to transform raw data into meaningful insights that improve decision-making.
+
+I primarily work with SQL, Python, Power BI, Tableau, Excel, and Business Analysis methodologies to build scalable analytical solutions and interactive dashboards.
 
 ---
 
-# 🌸 About Me
+# Analytics Stack
 
-<img align="right" width="320" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
-
-Hi, I'm **Soumya Siricilla**.
-
-I have **2 years of professional experience** working with high-volume datasets and developing a strong foundation in data validation, reporting, and analytics.
-
-Currently, I'm expanding my expertise in **Data Analytics**, **Business Analytics**, and **Business Intelligence**, with a focus on building dashboards that help organizations make smarter decisions.
-
-### ✨ What I Enjoy
-
-- 📊 Creating interactive Power BI dashboards
-- 🐍 Data analysis using Python
-- 🗄 Writing efficient SQL queries
-- 📈 Discovering trends and business insights
-- 📑 Building reports that support decision-making
-- 💡 Learning new analytics tools
-
----
-
-# 💼 Professional Experience
-
-### 🏢 Accenture
-
-**Health Admin Services Representative**
-
-- Process and validate healthcare datasets
-- Excel reporting and reconciliation
-- Improve data quality
-- Generate operational reports
-- Support business decisions using data
-
-### 🏢 Sellergize Web Technology Services Pvt Ltd
-
-**Web Administrator**
-
-- Managed affiliate marketing datasets
-- Data cleaning and validation
-- Database maintenance
-- Business reporting
-- Process optimization
-
----
-
-# 🚀 Technical Skills
-
-## 💻 Programming
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
-## 📊 Business Intelligence
+### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
-
-## 📈 Data Analysis
-
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-0078D4?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-
----
-
-## 🛠 Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### Analytics Tools
 
-## 📚 Business Analysis
-
-- BRD
-- FRD
-- UAT
-- Agile
-- SWOT Analysis
-- RCA
-- KPI Development
-- 5 Whys Analysis
+Power BI • Excel • Power Query • Power Pivot • DAX • Pandas • NumPy • Matplotlib • Plotly • Git • GitHub • VS Code
 
 ---
 
-# 📂 Featured Projects
+# Core Expertise
 
-## 🚖 DRIVE NXT – SQL Analytics
-
-Designed a relational database for a cab-booking platform.
-
-### Highlights
-
-- Normalized database design
-- Advanced SQL Queries
-- CTEs
-- Window Functions
-- Customer Behaviour Analysis
-- Revenue Analysis
-- Driver Performance Analysis
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- KPI Development & Reporting
+- SQL Query Optimization
+- Data Visualization & Storytelling
+- Business Intelligence
+- Business Requirement Analysis
+- Root Cause Analysis (RCA)
 - SWOT Analysis
-- Root Cause Analysis
+- User Acceptance Testing (UAT)
+- Agile Methodology
+- Statistical Analysis
+- Data Quality Management
 
-**Tech Stack**
+---
+
+# Featured Projects
+
+## DRIVE NXT | Relational Database & SQL Analytics
+
+Designed and implemented a normalized relational database for a ride-booking platform to support operational analytics and business reporting.
+
+### Key Contributions
+
+- Designed an ER model and normalized schema (3NF) to improve data integrity.
+- Developed advanced SQL queries using CTEs, Window Functions, JOINS, Subqueries, and Aggregate Functions.
+- Performed customer segmentation, booking trend analysis, revenue analytics, cancellation analysis, and driver performance evaluation.
+- Identified dynamic pricing opportunities with an estimated revenue improvement of **10–15%** during peak demand.
+- Applied Root Cause Analysis (RCA) and SWOT Analysis to identify operational bottlenecks and recommend business improvements.
+
+**Technology**
 
 `SQL` `MySQL` `ER Modeling`
 
 ---
 
-## 📊 Learning & Development Analytics Dashboard
+## Learning & Development Analytics Dashboard
 
-A Power BI dashboard designed to evaluate employee training effectiveness.
+Designed an executive Power BI dashboard to evaluate organizational training effectiveness and support strategic workforce development.
 
-### Dashboard Includes
+### Key Contributions
 
-- ROI Analysis
-- KPI Cards
-- Completion Rate
-- Department Performance
-- Engagement Score
-- Performance Improvement
-- Pareto Analysis
+- Built an interactive Power BI dashboard using a dimensional data model.
+- Developed DAX measures for ROI, Completion Rate, Engagement Score, and Performance Improvement.
+- Analyzed training performance across **3,000 employees**.
+- Evaluated ROI on a **$220M organizational training investment**.
+- Applied Pareto Analysis and 5 Whys methodology to identify factors contributing to training incompletion.
+- Delivered executive-ready dashboards supporting performance monitoring and business decision-making.
 
-**Tech Stack**
+**Technology**
 
-`Power BI` `Excel` `DAX` `Power Query`
-
----
-
-# 🎯 Currently Learning
-
-- Machine Learning
-- Data Science with Python
-- Advanced SQL Optimization
-- Dashboard Storytelling
-- Statistical Analysis
+`Power BI` `Excel` `Power Query` `DAX`
 
 ---
 
-# 📜 Certifications
+# Professional Experience
 
-- 🏆 SQL (Intermediate)
-- 🏆 Power BI
-- 🏆 Tableau
-- 🏆 Python for Data Science
+### Accenture
+
+**Health Admin Services Representative**
+*July 2025 – Present*
+
+- Process and validate high-volume healthcare datasets.
+- Perform reconciliation and reporting using Microsoft Excel.
+- Maintain data accuracy and compliance across operational workflows.
+- Support management through reporting and performance insights.
 
 ---
 
-# 📫 Connect With Me
+### Sellergize Web Technology Services Pvt. Ltd.
+
+**Web Administrator**
+*May 2024 – June 2025*
+
+- Managed affiliate marketing datasets from multiple e-commerce platforms.
+- Performed data validation, cleansing, and quality assurance.
+- Maintained structured databases and ensured data consistency.
+- Improved reporting accuracy through standardized data management practices.
+
+---
+
+# Certifications
+
+- SQL (Intermediate) – HackerRank
+- Power BI
+- Tableau
+- Python for Data Science
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasircillaa-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasircillaa-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
 
 <p align="center">
 
@@ -190,8 +171,6 @@ A Power BI dashboard designed to evaluate employee training effectiveness.
 
 <p align="center">
 
-### ✨ *"Without data, you're just another person with an opinion."* ✨
-
-⭐ Thanks for visiting my profile!
+*"Data tells a story. My goal is to uncover it and translate it into meaningful business decisions."*
 
 </p>
