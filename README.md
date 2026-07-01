@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%7C+SQL+%7C+Power+BI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst" />
 </p>
 
 <h3 align="center">
