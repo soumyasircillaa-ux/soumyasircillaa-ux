@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Soumya+Siricilla;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%7C+SQL+%7C+Power+BI" />
 </p>
 
 <h3 align="center">
@@ -86,6 +86,7 @@ Power BI • Excel • Power Query • Power Pivot • DAX • Pandas • NumPy 
 Designed a relational database and analytical solution for a ride-booking platform, enabling efficient data management and business reporting. The project focused on uncovering customer behavior, operational trends, revenue performance, and service quality through advanced SQL analytics and business analysis techniques.
 
 **Tech Stack:** SQL • MySQL • ER Modeling • Business Analysis
+
 ---
 
 ## Learning & Development Analytics Dashboard
@@ -126,10 +127,9 @@ Developed an interactive Power BI dashboard to evaluate employee learning outcom
 # Certifications
 
 - SQL (Intermediate) – HackerRank
-- Power BI
-- Tableau
-- Python for Data Science
-
+- NSDC Certification
+- AWS Certification
+- Masters in Data Analytics and Data Science with AI
 
 </p>
 
